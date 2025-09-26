@@ -105,10 +105,7 @@ hold additional secondary meetings later in the month.
 | Name             | GitHub        | Organization       | Location              |
 | :--------------- | :------------ | :----------------- | :-------------------- |
 | Lee Byron (Host) | @leebyron     | GraphQL Foundation | San Francisco, CA, US |
-| Uri Goldshtein   | @urigo        | The Guild          | Tel Aviv, IL          |
-| Kewei Qu         | @Keweiqu      | Meta Platforms     | Menlo Park, CA, US    |
-| Janette Cheng    | @janettec     | Meta Platforms     | New York, NY, US      |
-| Martin Bonnin    | @martinbonnin | Apollo             | Paris, FR      |
+| My name          | @MyUsername   | My affiliation     | My Location           |
 
 
 ## Agenda
@@ -121,6 +118,25 @@ hold additional secondary meetings later in the month.
    - Meetings are [published to YouTube](https://www.youtube.com/@GraphQLFoundation/videos) and we may use LLM/AI summary tools
 1. Introduction of attendees (5m, Host)
 1. Determine volunteers for note taking (1m, Host)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1. Review agenda (2m, Host)
 1. Review prior secondary meetings (5m, Host)
    - [GraphQL WG — September 2025 (Secondary, EU)](https://github.com/graphql/graphql-wg/blob/main/agendas/2025/09-Sep/18-wg-secondary-eu.md)
